@@ -1,0 +1,107 @@
+[
+    {
+        "name": "Template",
+        "stats": {
+            "BaseDef": 0,
+            "FlatDef": 0,
+            "DefMult": 0,
+            "DefAttMult": 0,
+            "BaseHp": 0,
+            "FlatHp": 0,
+            "HpMult": 0,
+            "HpAttMult": 0,
+            "BaseAtt": 0,
+            "AttMult": 0,
+            "FlatAtt": 0,
+            "CritRate": 0,
+            "CritRateMult": 0,
+            "CritDmg": 0,
+            "EM": 0,
+            "ReactionMult": 0,
+            "PhysDmg": 0,
+            "ElemDmg": 0,
+            "DefReduced": 0,
+            "ResReduced": 0,
+            "EnergyRecharge": 0,
+            "RechargeDmgMult": 0
+        }
+    },
+    {
+        "name": "Paramita Papilio",
+        "stats": {
+            "HpAttMult": 0.0715
+        }
+    },
+    {
+        "name": "Sanguine Rouge",
+        "stats": {
+            "ElemDmg": 0.33
+        }
+    },
+    {
+        "name": "Butterfly's Embrace",
+        "stats": {
+            "CritRateMult": 1
+        }
+    },
+    {
+        "name": "Stellaris Phantasm (Non Vaporize)",
+        "stats": {
+            "ElemDmg": 0.6
+        }
+    },
+    {
+        "name": "Westward Sojourn (Average)",
+        "stats": {
+            "ElemDmg": 0.125
+        }
+    },
+    {
+        "name": "Westward Sojourn (Max)",
+        "stats": {
+            "ElemDmg": 0.25
+        }
+    },
+    {
+        "name": "Harmony between Heaven and Earth",
+        "stats": {
+            "ElemDmg": 0.2
+        }
+    },
+    {
+        "name": "Undivided Heart",
+        "stats": {
+            "CritRate": 0.2
+        }
+    },
+    {
+        "name": "Dew Drinker",
+        "stats": {
+            "ResReduced": 0.15
+        }
+    },
+    {
+        "name": "Explosive Frags",
+        "stats": {
+            "DefReduced": 0.23
+        }
+    },
+    {
+        "name": "Pyro Resonance",
+        "stats": {
+            "AttMult": 0.25
+        }
+    },
+    {
+        "name": "Fantastic Voyage (Max)",
+        "stats": {
+            "FlatAtt": 1029
+        }
+    },
+    {
+        "name": "Only max 50% CrR",
+        "stats": {
+            "CritRate": 0.5
+        }
+    }
+]

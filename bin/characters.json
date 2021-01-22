@@ -1,0 +1,45 @@
+[
+    {
+        "name": "Template",
+        "stats": {
+            "BaseDef": 0,
+            "FlatDef": 0,
+            "DefMult": 0,
+            "DefAttMult": 0,
+            "BaseHp": 0,
+            "FlatHp": 0,
+            "HpMult": 0,
+            "HpAttMult": 0,
+            "BaseAtt": 0,
+            "AttMult": 0,
+            "FlatAtt": 0,
+            "CritRate": 0,
+            "CritRateMult": 0,
+            "CritDmg": 0,
+            "EM": 0,
+            "ReactionMult": 0,
+            "PhysDmg": 0,
+            "ElemDmg": 0,
+            "DefReduced": 0,
+            "ResReduced": 0,
+            "EnergyRecharge": 0,
+            "RechargeDmgMult": 0
+        }
+    },
+    {
+        "name": "Hu Tao",
+        "stats": {
+            "BaseHp": 15552,
+            "BaseAtt": 106,
+            "CritDmg": 0.384
+        }
+    },
+    {
+        "name": "Ganyu",
+        "stats": {
+            "BaseHp": 9797,
+            "BaseAtt": 335,
+            "CritDmg": 0.384
+        }
+    }
+]

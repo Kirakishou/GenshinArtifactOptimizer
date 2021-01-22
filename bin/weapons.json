@@ -1,0 +1,46 @@
+[
+    {
+        "name": "Template",
+        "stats": {
+            "BaseDef": 0,
+            "FlatDef": 0,
+            "DefMult": 0,
+            "DefAttMult": 0,
+            "BaseHp": 0,
+            "FlatHp": 0,
+            "HpMult": 0,
+            "HpAttMult": 0,
+            "BaseAtt": 0,
+            "AttMult": 0,
+            "FlatAtt": 0,
+            "CritRate": 0,
+            "CritRateMult": 0,
+            "CritDmg": 0,
+            "EM": 0,
+            "ReactionMult": 0,
+            "PhysDmg": 0,
+            "ElemDmg": 0,
+            "DefReduced": 0,
+            "ResReduced": 0,
+            "EnergyRecharge": 0,
+            "RechargeDmgMult": 0
+        }
+    },
+    {
+        "name": "Staff of Homa",
+        "stats": {
+            "HpMult": 0.2,
+            "HpAttMult": 0.018,
+            "BaseAtt": 608,
+            "CritDmg": 0.662
+        }
+    },
+    {
+        "name": "Amos Bow",
+        "stats": {
+            "BaseAtt": 608,
+            "AttMult": 0.496,
+            "ElemDmg": 1.04
+        }
+    }
+]
